@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Facebook_Org_inKotlin_project</string>
+    <string name="txtCredits">www.google.com</string>
 </resources>
